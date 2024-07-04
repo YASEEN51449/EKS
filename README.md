@@ -1,2 +1,1 @@
-# EKS
-DEPLOYMENT
+# eks-basics
