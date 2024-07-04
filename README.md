@@ -1,4 +1,4 @@
-Step 1: EC2 Setup
+--------------Step 1: EC2 Setup
 
 Launch an Ubuntu instance in your favourite region (eg. region ap-south-1).
 SSH into the instance from your local machine.
