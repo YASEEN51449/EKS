@@ -64,6 +64,7 @@ Generate Security Credentials: Access Key and Secret Access Key.
 	 kubectl get node
 	 kubectl get rs
 	 curl loadbalancer dns name
+  	 kubectl get all
 
 
 
