@@ -42,8 +42,8 @@ eksctl version
 # eksctl help
 
 **************************************Step 6: Setup EKS Cluster**********************************
-
-[eksctl create cluster --name cluster --region ap-south-1 --node-type t2.micro --nodes-min 2 --nodes-max 2]
+                
+		[eksctl create cluster --name cluster --region ap-south-1 --node-type t2.micro --nodes-min 2 --nodes-max 2]
 
 						[or]
 
